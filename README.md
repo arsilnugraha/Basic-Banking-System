@@ -1,33 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
+# Backend Javascript Challenge FGA BINAR ACADEMY
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+## SKILL METRICS
 
-<body>
-    <h1>Backend Javascript Challenge FGA BINAR ACADEMY</h1>
+- **Programming Algorithm:** Menunjukkan kemampuan menyelesaikan permasalahan pemrograman dengan pendekatan algoritma yang tepat.
+- **Error Handling:** Menerapkan strategi efektif dalam menangani dan mengelola kesalahan (errors).
+- **Asynchronous Process:** Mampu mengimplementasikan proses asynchronous untuk meningkatkan responsivitas aplikasi.
+- **Object-Oriented Programming (OOP):** Menggunakan konsep OOP dalam pengembangan aplikasi.
+- **Git Usage:** Penggunaan Git untuk mengelola versi kode dengan baik.
 
-    <h2>SKILL METRICS</h2>
-    <ul>
-        <li>Programming Algorithm</li>
-        <li>Melakukan error handling</li>
-        <li>Menerapkan Asynchronous process</li>
-        <li>Menerapkan OOP</li>
-        <li>Menggunakan Git</li>
-    </ul>
+## DELIVERY
 
-    <h2>DELIVERY</h2>
-    <ol>
-        <li>Membuat repositori baru di GitHub dengan nama "Basic-Banking-System"</li>
-        <li>Salin file bank_account.js Challenge 1 ke direktori proyek di repositori baru</li>
-        <li>Membuat file JavaScript baru dengan nama banking_system.js</li>
-        <li>Implementasikan kelas BankAccount dengan metode deposit() dan withdraw()</li>
-        <li>Gunakan setTimeout() untuk mensimulasikan operasi transaksi yang asynchronous</li>
-        <li>Commit dan push perubahan ke repositori GitHub</li>
-    </ol>
-
-</body>
-
-</html>
+1. Buat repositori baru di GitHub dengan nama "Basic-Banking-System".
+2. Salin file `bank_account.js` dari Challenge 1 ke direktori proyek di repositori baru Anda.
+3. Buat file JavaScript baru dengan nama `banking_system.js`.
+4. Implementasikan kelas `BankAccount` dengan metode `deposit()` dan `withdraw()`.
+5. Gunakan `setTimeout()` untuk mensimulasikan operasi transaksi yang asynchronous.
+6. Commit dan push perubahan ke repositori GitHub Anda.
